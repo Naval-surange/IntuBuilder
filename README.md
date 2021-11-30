@@ -7,7 +7,7 @@
   <img align="left" alt="Naval's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder)
 
  A python PyGame implementation for easing the processes of learning new Algorithms intuitively.
 
