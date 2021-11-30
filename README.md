@@ -18,3 +18,25 @@ Hence **“IntuBuilder”** is an attempt to solve this exact problem by providi
     pip3 install -r requirements.txt
     python3 main.py
     ```
+
+## **Modules:**
+
+There are a total of **7** modules present in this project each with their own unique visualization and interactive features along with wiki articles explaining algorithms.  
+
+Those **7** modules are:
+
+- Dijkstra Path Finding Algorithm
+- AStar Path Finding Algorithm
+- Fast Fourier Transform Curve Compressor
+- Minimum Spanning tree
+- Bubble Sort
+- Insertion Sort
+- Conveys Game of Life
+
+## **Details**
+
+Each of the sub-part of gui application contains following:
+
+- The main tool through which we can interact and visualize the algorithm.
+- The wiki page will have all the theory and resources to master the algorithm 
+- And the help menu which will guide us on how to use the tool to visualize and interact with the algorithm.
