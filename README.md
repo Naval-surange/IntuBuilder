@@ -45,6 +45,14 @@ Hence **“IntuBuilder”** is an attempt to solve this exact problem by providi
     python3 main.py
     ```
 
+## **TroubleShooting:**
+
+- If some module does not render properly and glitches in the UI, resizing the window may help.
+- If Module Not found error occurs, try running given command in terminal
+  ```
+  pip3 install -r requirements2.txt
+  ```
+
 ## **Modules:**
 
 There are a total of **7** modules present in this project each with their own unique visualization and interactive features along with wiki articles explaining algorithms.  
