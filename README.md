@@ -38,6 +38,14 @@ Hence **“IntuBuilder”** is an attempt to solve this exact problem by providi
     ```
       https://iiitaphyd-my.sharepoint.com/:f:/g/personal/naval_s_research_iiit_ac_in/EpP6k1doTy1NsguPv3RclDoBhOQjlw6DED1J4bsfcEKFjQ?e=Rzm3gC
     ```
+    And in order to compile the EXE from source code use the following command (ps it is recommended to create a virtual environment with only the required packages installed in it):
+    ```
+    cd IntuBuilder
+    python builder.py build
+    ```
+    This should create a folder named "IntuBuilder_EXE" in the parent directory with the compiled EXE file. 
+
+
 - for linux/mac users:
     ```
     pip3 install -r requirements.txt
