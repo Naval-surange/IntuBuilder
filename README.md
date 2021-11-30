@@ -1,6 +1,13 @@
 # IntuBuilder
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder&left_color=green&right_color=red)
+
  A python PyGame implementation for easing the processes of learning new Algorithms intuitively.
+
+The link to the github repo : 
+```
+https://github.com/Naval-surange/IntuBuilder
+```
 
 As we all know Learning new algorithms has always been a challenging task for beginners. Let alone grabbing the intuition of how the algorithm works under the hood is an even challenging problem. There are many people who just memorize the algorithms in the start rather than really learning how does it work under the hood, many are never able to develop the intuition for that,
 
@@ -11,11 +18,13 @@ Hence **“IntuBuilder”** is an attempt to solve this exact problem by providi
 - for windows users:
     ```
     pip install -r requirements.txt
+    cd IntuBuilder
     python main.py
     ```
 - for linux/mac users:
     ```
     pip3 install -r requirements.txt
+    cd IntuBuilder
     python3 main.py
     ```
 
