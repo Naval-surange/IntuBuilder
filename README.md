@@ -32,11 +32,11 @@ Hence **“IntuBuilder”** is an attempt to solve this exact problem by providi
     Alternatively windows users can also download a pre-compiled EXE file from the link given below:
     G-rive:
     ```
-      https://drive.google.com/drive/folders/1T_hkK8d1lO09MurvhghTbo9JCzOQh0XS?usp=sharing
+      https://drive.google.com/drive/folders/1kzVVJ2DMPjmJ_lbZVYQciMJB3kz0uLOh?usp=sharing
     ```
     One-Drive:
     ```
-      https://iiitaphyd-my.sharepoint.com/:f:/g/personal/naval_s_research_iiit_ac_in/EpP6k1doTy1NsguPv3RclDoBhOQjlw6DED1J4bsfcEKFjQ?e=Rzm3gC
+      https://iiitaphyd-my.sharepoint.com/:f:/g/personal/naval_s_research_iiit_ac_in/EjSB6l3e6QZEq5Lbn_zNGjgBb082IiMSmaANN9rZqN29Xw?e=7LgcQo
     ```
     And in order to compile the EXE from source code use the following command (ps it is recommended to create a virtual environment with only the required packages installed in it):
     ```
