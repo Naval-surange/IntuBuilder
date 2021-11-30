@@ -1,5 +1,12 @@
 # IntuBuilder
 
+<a href="https://discordapp.com/users/757609116675080192">
+  <img align="left" alt="Naval's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/naval-surange-42a710203/">
+  <img align="left" alt="Naval's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder)
 
  A python PyGame implementation for easing the processes of learning new Algorithms intuitively.
