@@ -1,6 +1,6 @@
 # IntuBuilder
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder)
 
  A python PyGame implementation for easing the processes of learning new Algorithms intuitively.
 
