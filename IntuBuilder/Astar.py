@@ -75,7 +75,7 @@ def load(grid):
     
     globals.size = (globals.width,globals.height) = tuple([int(s) for s in file.readline().split()])
     
-    cols, rows = globals.width//20, globals.height//20
+    cols, rows = globals.width//28, globals.height//28
     w = globals.width//cols
     h = globals.height//rows
     
@@ -130,7 +130,7 @@ def AStar():
         globals.size = (globals.width, globals.height) = win.get_size()
         if globals.size != prev_size:
             
-            cols, rows = globals.width//20, globals.height//20
+            cols, rows = globals.width//28, globals.height//28
             w = globals.width//cols
             h = globals.height//rows    
             

@@ -7,7 +7,7 @@
   <img align="left" alt="Naval's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.IntuBuilder) -->
 
  A python PyGame implementation for easing the processes of learning new Algorithms intuitively.
 
@@ -27,6 +27,16 @@ Hence **“IntuBuilder”** is an attempt to solve this exact problem by providi
     pip install -r requirements.txt
     cd IntuBuilder
     python main.py
+    ```
+    
+    Alternatively windows users can also download a pre-compiled EXE file from the link given below:
+    G-rive:
+    ```
+      https://drive.google.com/drive/folders/1T_hkK8d1lO09MurvhghTbo9JCzOQh0XS?usp=sharing
+    ```
+    One-Drive:
+    ```
+      https://iiitaphyd-my.sharepoint.com/:f:/g/personal/naval_s_research_iiit_ac_in/EpP6k1doTy1NsguPv3RclDoBhOQjlw6DED1J4bsfcEKFjQ?e=Rzm3gC
     ```
 - for linux/mac users:
     ```

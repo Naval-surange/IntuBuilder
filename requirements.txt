@@ -1,7 +1,5 @@
-numpy==1.19.3
-scipy==1.6.0
 matplotlib==3.3.3
 pygame==2.0.1
-colour==0.1.5
-cx_Freeze==6.8.1
-Pillow==8.3.2
+numpy==1.19.3
+cx_Freeze==6.8.4
+Pillow==8.4.0

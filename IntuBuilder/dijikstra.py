@@ -3,11 +3,11 @@
 from functools import partial
 import pygame, sys
 
-from pygame.constants import K_l
+
 import globals
 
 from collections import deque
-from tkinter import Widget, messagebox, Tk
+from tkinter import  messagebox, Tk
 
 from utils import *
 from help import dijikstra_help
@@ -70,7 +70,7 @@ def load(grid):
     
     globals.size = (globals.width,globals.height) = tuple([int(s) for s in file.readline().split()])
     
-    cols, rows = globals.width//20, globals.height//20
+    cols, rows = globals.width//28, globals.height//28
     w = globals.width//cols
     h = globals.height//rows
     
@@ -132,7 +132,7 @@ def dijikstra():
         globals.size = (globals.width, globals.height) = win.get_size() 
     
         if prev_size != globals.size:
-            cols, rows = globals.width//20, globals.height//20
+            cols, rows = globals.width//28, globals.height//28
             w = globals.width//cols
             h = globals.height//rows    
             grid = []

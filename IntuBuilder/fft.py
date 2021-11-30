@@ -1,11 +1,7 @@
-from os import error
-from numpy.lib.function_base import disp
-from pygame import mouse
 from pygame.event import clear
 from help import FFT_help
 from wiki import FFT_wiki 
 import pygame, sys
-import matplotlib.pyplot as plt
 import numpy as np
 from utils import *
 from functools import partial
